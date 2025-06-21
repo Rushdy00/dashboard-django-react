@@ -35,6 +35,7 @@ Thumbs.db
 __pycache__/
 *.so
 .env
+venv/
 .venv/
 env/
 venv/
